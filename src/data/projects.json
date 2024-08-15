@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Analyse de données ",
+    "imageSrc": "projects/1.png",
+    "description": "Contexte : Projet réalisé dans le cadre de mon stage chez DNEXT, visant à comparer et analyser les données douanières (Customs) et les données d'alignements de navires (Lineups) pour une meilleure compréhension des flux commerciaux Objectif : Fournir une vue d'ensemble des flux commerciaux et des performances logistiques, tout en permettant une analyse détaillée pour soutenir la prise de décision stratégique au sein de l'entreprise",
+    "skills": ["Power BI", "DAX", "Visualisation de données"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/BOUDRIGAYassine"
+  },
+  {
+    "title": "Application Mobile 'TransportX' ",
+    "imageSrc": "projects/3.png",
+    "description": "Description : Développement d'une application mobile nommée 'TransportX' utilisant Flutter, conçue pour faciliter la gestion et l'optimisation des livraisons. L'application intègre une carte interactive pour le suivi en temps réel des livraisons, des notifications pour informer les utilisateurs de l'état des envois, et une interface utilisateur intuitive pour simplifier les opérations de livraison.",
+    "skills": ["Flutter", "UI/UX design", "développement mobile", "notifications push"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/BOUDRIGAYassine"
+  },
+  {
+    "title": "Application Mobile de Tourisme ",
+    "imageSrc": "projects/6.png",
+    "description": "Contexte : Participation à une compétition nationale organisée par le ministère du Tourisme, visant à développer une application innovante dédiée à la promotion du tourisme. Objectif : Créer une solution numérique qui aide les touristes à découvrir les trésors cachés du pays tout en soutenant les initiatives du ministère du Tourisme pour promouvoir les destinations locales.",
+    "skills": ["UI/UX design", "figma", "flutter"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/BOUDRIGAYassine"
+  }
+]

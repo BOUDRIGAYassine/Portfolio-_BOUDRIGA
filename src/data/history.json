@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Data analyst (intern)",
+    "organisation": "DNEXT",
+    "startDate": "juin, 2024",
+    "endDate": "Present",
+    "experiences": ["Analyse et Reportions", "Optimisation des Données"],
+    "imageSrc": "history/g.jpeg"
+  },
+  {
+    "role": "UI Designer,Flutter developer (intern)",
+    "organisation": "GPRO consulting",
+    "startDate": "juin, 2023",
+    "endDate": "Aug, 2023",
+    "experiences": ["Conception et Réalisation d'une application mobile", "Conception d'interface utilisateur (UI)"],
+    "imageSrc": "history/m.png"
+  },
+  {
+    "role": " final course project (PFE)",
+    "organisation": "Medicars",
+    "startDate": "mars, 2022",
+    "endDate": "juillet, 2022",
+    "experiences": [
+      "Conception d'une table élévatrice",
+      "Analyse technique","Prototypage"
+    ],
+    "imageSrc": "history/n.jpeg"
+  }
+]
