@@ -10,7 +10,8 @@ export const Hero = () => {
         <h1 className={styles.title}>BOUDRIGA
         Yassine</h1>
         <p className={styles.description}>
-        Passionate about artificial intelligence and data analysis, I transform complex data into actionable insights. My experience spans mobile app development and the creation of dynamic dashboards, always with a focus on precision and innovation.
+        Passionné d'intelligence artificielle et d'analyse de données, je transforme des données complexes en insights exploitables. Mon expérience s'étend du développement d'applications mobiles à la création de tableaux de bord dynamiques, toujours en mettant l'accent sur la précision et l'innovation.
+
         </p>
         <a href="mailto:myemail@email.com" className={styles.contactBtn}>
           Contact Me
